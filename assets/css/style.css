@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.desafioborder {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    gap: 2rem;
+    height: 250px;
+}
+
+.desafioborder img {
+    width: 250px;
+    height: 150px;
+}
+
+.desafiostickers {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    height: 350px;
+}
+
+.ordenstickers {
+    display: flex;
+    gap: 1rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.sticker {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.desafioclave {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
